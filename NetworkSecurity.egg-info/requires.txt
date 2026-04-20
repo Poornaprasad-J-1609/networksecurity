@@ -2,7 +2,5 @@ python-dotenv
 pandas
 numpy
 seaborn
-pymongo 
+pymongo
 certifi
-
-##-e .
